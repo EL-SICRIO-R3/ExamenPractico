@@ -1,0 +1,14 @@
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\bin\Debug\RegistroDeProspectos.exe.config
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\bin\Debug\RegistroDeProspectos.exe
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\bin\Debug\RegistroDeProspectos.pdb
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\obj\Debug\RegistroDeProspectos.csproj.AssemblyReference.cache
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\obj\Debug\RegistroDeProspectos.csproj.SuggestedBindingRedirects.cache
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\obj\Debug\RegistroDeProspectos.Properties.Resources.resources
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\obj\Debug\RegistroDeProspectos.csproj.GenerateResource.cache
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\obj\Debug\RegistroDeProspectos.csproj.CoreCompileInputs.cache
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\obj\Debug\RegistroDeProspectos.exe
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\obj\Debug\RegistroDeProspectos.pdb
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\obj\Debug\RegistroDeProspectos.FormRegistro.resources
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\obj\Debug\RegistroDeProspectos.FormDetalles.resources
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\obj\Debug\RegistroDeProspectos.FormEvaluacion.resources
+C:\Users\1108361138\OneDrive\Documentos\pruebaTecnica\Actual\RegistroDeProspectos\RegistroDeProspectos\obj\Debug\RegistroDeProspectos.FormListado.resources
